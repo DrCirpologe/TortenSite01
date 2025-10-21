@@ -1,0 +1,22 @@
+WICHTIGER HINWEIS:
+
+Alle Bildverweise in der Website wurden erfolgreich auf "pic.jpg" geändert:
+
+1. Logo in der Navigation (nav-logo)
+2. Über uns Bild (about-chef.jpg -> pic.jpg)  
+3. Alle Produktbilder in der Tortenauswahl (6 Bilder)
+4. Alle Galeriebilder (6 Bilder)
+5. Alle Testimonial-Bilder (3 Kundenfotos)
+6. Footer-Logo
+7. Hero-Hintergundbild im CSS
+
+Sie müssen jetzt nur noch eine echte Bilddatei namens "pic.jpg" in den Ordner "images/" einfügen.
+
+Diese eine Bilddatei wird dann für alle Bereiche der Website verwendet:
+- Als Logo
+- Als Produktbilder 
+- Als Galerie-Bilder
+- Als Kundenbewertungs-Fotos
+- Als Hintergrundbild
+
+Empfohlene Bildgröße: mindestens 800x600 Pixel für beste Darstellung.

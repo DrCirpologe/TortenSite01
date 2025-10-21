@@ -1,0 +1,69 @@
+/* 
+   BILDVERZEICHNIS FÜR SWEETDREAMS TORTENWERKSTATT
+   ================================================
+   
+   Diese Datei dient als Referenz für alle Bilder der Website.
+   Alle Placeholder-Bilder verwenden hochwertige Unsplash-URLs.
+   
+   WICHTIG: Ersetzen Sie diese URLs durch Ihre eigenen Tortenbilder.
+   
+   Bildgrößen:
+   - Hero Background: 1920x1080px
+   - Logo: 200x200px (quadratisch)
+   - Produktbilder: 600x400px
+   - Galerie: 800x600px
+   - Testimonials: 120x120px (rund)
+   - About: 800x600px
+*/
+
+// =================
+// LOGO & BRANDING
+// =================
+logo.png: https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=200&h=200&fit=crop&crop=center
+logo-white.png: https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=200&h=200&fit=crop&crop=center
+favicon.ico: https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=32&h=32&fit=crop&crop=center
+
+// =================
+// HERO SECTION
+// =================
+hero-bg.jpg: https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=1920&h=1080&fit=crop&crop=center
+
+// =================
+// ABOUT SECTION
+// =================
+about-chef.jpg: https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop&crop=center
+
+// =================
+// WEDDING CAKES
+// =================
+wedding-cake-1.jpg: https://images.unsplash.com/photo-1535254973040-607b474cb50d?w=600&h=400&fit=crop&crop=center
+wedding-cake-2.jpg: https://images.unsplash.com/photo-1627834377411-8da5f4f09de8?w=600&h=400&fit=crop&crop=center
+
+// =================
+// BIRTHDAY CAKES
+// =================
+birthday-cake-1.jpg: https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=600&h=400&fit=crop&crop=center
+birthday-cake-2.jpg: https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&h=400&fit=crop&crop=center
+
+// =================
+// THEMED CAKES
+// =================
+themed-cake-1.jpg: https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=600&h=400&fit=crop&crop=center
+themed-cake-2.jpg: https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=600&h=400&fit=crop&crop=center
+
+// =================
+// GALLERY
+// =================
+gallery-1.jpg: https://images.unsplash.com/photo-1535254973040-607b474cb50d?w=800&h=600&fit=crop&crop=center
+gallery-2.jpg: https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=800&h=600&fit=crop&crop=center
+gallery-3.jpg: https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&crop=center
+gallery-4.jpg: https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&crop=center
+gallery-5.jpg: https://images.unsplash.com/photo-1627834377411-8da5f4f09de8?w=800&h=600&fit=crop&crop=center
+gallery-6.jpg: https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=800&h=600&fit=crop&crop=center
+
+// =================
+// TESTIMONIALS
+// =================
+testimonial-1.jpg: https://images.unsplash.com/photo-1494790108755-2616b612b182?w=120&h=120&fit=crop&crop=face
+testimonial-2.jpg: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=120&h=120&fit=crop&crop=face
+testimonial-3.jpg: https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=120&h=120&fit=crop&crop=face
